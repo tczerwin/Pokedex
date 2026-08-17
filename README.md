@@ -129,27 +129,6 @@ Launch the app to access five main features:
 6. **Type Coverage** - Analyze team strengths/weaknesses
 7. **Export PDF** - Generate a visual team report
 
-## File Structure
-
-```
-Pokemon/
-├── main.py                 # Application entry point & window management
-├── mainpage.py            # Main menu UI
-├── look_up.py             # Pokémon lookup page
-├── top10.py               # Type browsing page
-├── raidcounters.py        # Raid counter recommendations
-├── battle.py              # Battle arena simulator
-├── team_builder.py        # Team builder UI
-├── type_chart.py          # Type effectiveness chart
-├── PokemonDatabase.py     # Database & API integration
-├── teams.py               # Team persistence manager
-├── img/                   # Images and resources
-│   ├── pokemon.png
-│   ├── ProfPic2026.png
-│   ├── Pokemon.mp3
-│   └── poke_background.jpg
-└── README.md              # This file
-```
 
 ## Key Algorithms
 
@@ -286,10 +265,3 @@ Taylor Czerwinski
 - **PokéAPI** - Comprehensive Pokémon data source
 - **PyQt5** - Cross-platform GUI framework
 - **The Pokémon Company** - Original Pokémon data and media
-
-## Contact
-
-For questions, issues, or suggestions:
-- Email: taylorczerwinski@gmail.com
-- GitHub: [@tczerwin](https://github.com/tczerwin)
-- LinkedIn: [Taylor Czerwinski](https://www.linkedin.com/in/taylor-czerwinski-bb0048156)
