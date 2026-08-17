@@ -1,0 +1,91 @@
+{
+  "teams": [
+    {
+      "name": "TEST",
+      "pokemon": [
+        {
+          "name": "kleavor",
+          "level": 50
+        },
+        {
+          "name": "slither-wing",
+          "level": 50
+        },
+        {
+          "name": "gholdengo",
+          "level": 50
+        },
+        {
+          "name": "pecharunt",
+          "level": 50
+        },
+        {
+          "name": "tapu-fini",
+          "level": 50
+        },
+        {
+          "name": "passimian",
+          "level": 50
+        }
+      ]
+    },
+    {
+      "name": "Taylor's Team",
+      "pokemon": [
+        {
+          "name": "charizard",
+          "level": 50
+        },
+        {
+          "name": "yveltal",
+          "level": 50
+        },
+        {
+          "name": "kakuna",
+          "level": 50
+        },
+        {
+          "name": "dhelmise",
+          "level": 50
+        },
+        {
+          "name": "pikachu",
+          "level": 50
+        },
+        {
+          "name": "kleavor",
+          "level": 50
+        }
+      ]
+    },
+    {
+      "name": "Our Team",
+      "pokemon": [
+        {
+          "name": "yungoos",
+          "level": 50
+        },
+        {
+          "name": "yveltal",
+          "level": 50
+        },
+        {
+          "name": "zacian",
+          "level": 50
+        },
+        {
+          "name": "pikachu",
+          "level": 50
+        },
+        {
+          "name": "vaporeon",
+          "level": 50
+        },
+        {
+          "name": "iron-treads",
+          "level": 50
+        }
+      ]
+    }
+  ]
+}
